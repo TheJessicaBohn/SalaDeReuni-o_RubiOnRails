@@ -5,7 +5,7 @@
 
 ## Feramentas:
 - **Ruby:** Linguagem de programação;
-- **Rails:** Framework Donwload (Aqui)[https://rubyinstaller.org/downloads/].
+- **Rails:** Framework Donwload [Aqui](https://rubyinstaller.org/downloads/).
   - **Instalação:** 
     - 'gem install rails', instalação
     - 'rails --version', verifica a versão 
