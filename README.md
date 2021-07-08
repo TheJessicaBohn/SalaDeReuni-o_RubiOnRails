@@ -5,8 +5,14 @@
 
 ## Feramentas:
 - **Ruby:** Linguagem de programação;
-- **Rails:** Framework Donwload [Aqui](https://rubyinstaller.org/downloads/).
   - **Instalação:** 
-    - 'gem install rails', instalação
-    - 'rails --version', verifica a versão 
+    - `ruby -v`, verifica a versão do Ruby;
+    - caso não tenha instalado download [Aqui](https://rubyinstaller.org/downloads/);
+    - Ruby Gems, [Aqui](https://rubygems.org/pages/download);
+    - `gem update --system`, atualização do gems;
+    - `gem list`, lista os pacotes do gems;
+- **Rails:** Framework;
+  - **Instalação:** 
+    - `gem install rails`, instalação
+    - `rails --version`, verifica a versão do Rails
  
